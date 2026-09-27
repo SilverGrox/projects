@@ -1,2 +1,2 @@
-# projects
+# QuickDict.exe
 这是一个快速英语词典，你可以通过运行该程序来快速查词。
